@@ -1,5 +1,14 @@
 # NetScan
 
+```
+  _   _      _    _____                 
+ | \ | |    | |  / ____|                
+ |  \| | ___| |_| (___   ___ __ _ _ __  
+ | . ` |/ _ \ __|\___ \ / __/ _` | '_ \ 
+ | |\  |  __/ |_ ____) | (_| (_| | | | |
+ |_| \_|\___|\__|_____/ \___\__,_|_| |_|
+```
+
 A command-line network scanner that discovers active hosts on a network using ICMP ping requests.
 
 ## Usage
